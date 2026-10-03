@@ -12,7 +12,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 🥈 2 | **Hyundai i20 III 1.0 T-GDi 100 Intuitive** (Sainte-Marie, FB) | 2021 / 69 800 | Essence | 13 000 € | ~13 000 € | ★★★ | **La plus sereine** : récente, faible km, sous garantie |
 | 🥉 3 | **Suzuki Swift Sport** (ZC33S, Saint-Denis, FB) | ? / ? | Essence | 13 000 € | ~13 000 € | ★★★ | Chaîne, fiable + fun — **meilleur compromis plaisir** (à vérifier km/embrayage) |
 | 4 | **BMW Série 1 116i Pack Luxe** (F20, Saint-Louis, pro) | 2019 / 65 000 | Essence | 13 900 € | ~14 300 € | ★★★ | Propulsion, 1ère main, moteur B38 chaîne fiable — **coûts premium** |
-| 5 | **Opel Adam 1.4 87 ch** (B14XEL) | ? | Essence | à chiffrer | à chiffrer | ★★★* | ✅ chaîne, mécanique Corsa simple et pas chère |
+| 5 | **Opel Adam 1.4 87 ch** (B14XEL, 974) | 2017 / ? | Essence | 5 600 € (↘ 6 000) | ~6 000 € | ★★★ | ✅ chaîne, **le moins cher du lot** — vérifier boîte auto (Easytronic) + km |
 | 6 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | ★★* | Essence fiable (EA211), infos manquantes |
 | 7 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
 | 8 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
@@ -32,7 +32,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - **Le choix plaisir raisonnable** → **Suzuki Swift Sport** : le seul « fun » qui reste fiable et pas cher à entretenir (à condition d'un embrayage sain et d'un vrai suivi).
 - **Si SUV familial nécessaire** → **Ford Kuga** (gros rouleur) ou Duster ; **surtout pas l'Evoque**.
 - **À écarter** → **Range Rover Evoque** : cumule courroie humide + fiabilité fragile + pièces chères + hors budget.
-- **En attente d'infos** (prix/année/km) → Opel Adam, VW Polo, Audi TT, Suzuki Swift : donne-moi les manquants pour les chiffrer précisément.
+- **En attente d'infos** (prix/année/km) → VW Polo, Audi TT, Suzuki Swift : donne-moi les manquants pour les chiffrer précisément.
 
 ## Détail par annonce
 
@@ -95,12 +95,13 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - Négociation : c'est un pro, prix déjà bradé ; viser 13 000-13 500 € ou exiger révision complète + CT vierge + garantie écrite
 - **Verdict** : belle affaire pour qui veut du premium/propulsion et assume les coûts d'entretien ; mécaniquement le meilleur des « plaisir » avec la Swift
 
-### 5. Opel Adam 1.4 87 ch (B14XEL) — à chiffrer
-- **Fiche** : [opel/adam.md](opel/adam.md) · fiche technique piecesenstock.re
-- ✅ **Chaîne de distribution** (pas de courroie), mécanique Corsa D/E simple et pièces bon marché
-- Largement dans le budget (Adam d'occasion : ~5 000 – 9 000 €)
-- À vérifier : bougies (60/120 000 km), pompe à eau, direction assistée électrique, clim
-- **Infos manquantes** : prix, année, km, GPL ou pas
+### 5. Opel Adam 1.4 87 ch (B14XEL) — 5 600 € ★★★
+- **Fiche** : [opel/adam.md](opel/adam.md) · La Réunion (974), Facebook Marketplace, 2017 (MEC 13/01/2017), boîte automatique, toit panoramique, essence 87 ch
+- ✅ **Le moins cher de la sélection** (5 600 €, baissé de 6 000 €) ; **chaîne** de distribution, mécanique Corsa simple, pièces bon marché, injection indirecte (peu d'encrassement) ; entretien 220-380 €/an
+- ⚠️ **Boîte automatique = Easytronic (robotisée simple embrayage)** : à-coups/lenteurs connus → essayer longuement ; moins fiable/agréable qu'une manuelle
+- À vérifier : **kilométrage** (non communiqué), bougies, pompe à eau, direction assistée électrique, clim, état embrayage Easytronic, toit pano (étanchéité)
+- Négociation : déjà bas ; viser 5 000-5 300 € selon km
+- **Verdict** : excellent rapport prix pour rouler malin ; **budget champion avec l'i20 II**, à condition que la boîte Easytronic et le km soient bons
 
 ### 3. Suzuki Swift Sport (ZC33S) — 13 000 € ★★★
 - **Fiche** : [suzuki/swift.md](suzuki/swift.md) · Saint-Denis, Facebook Marketplace, ajoutée il y a 6 h
