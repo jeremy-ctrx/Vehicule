@@ -16,11 +16,12 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 6 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | ★★* | Essence fiable (EA211), infos manquantes |
 | 7 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
 | 8 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
-| 9 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
-| 10 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | ★★ | Coupé plaisir ; vérifier tendeur chaîne + conso d'huile |
-| 11 | **MINI Cooper S (R56)** (Le Tampon, FB) | ? / ? | Essence | 10 500 € | 11 500 – 13 000 € ⚠️ | ★ | ⚠️ 1.6 THP N14 « death rattle » (tendeur/chaîne, pompe HP) — génération fragile |
-| 12 | **Jeep Compass Limited 1.3 GSE 150** (Saint-Leu, pro) | ~2019-20 / 46 000 | Essence | 16 999 € | ~17 500 € ⚠️ | ★ | ⚠️ **le plus cher, très au-dessus du budget** + chaîne qui s'allonge + boîte DDCT |
-| 13 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
+| 9 | **MINI Cooper D 5 portes (F55)** (Saint-Pierre, FB) | ? / 69 000 | Diesel | 10 500 € | ~11 000 € | ★★ | Bonne génération (B37 chaîne), **suivie BMW facture à l'appui** — diesel premium |
+| 10 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
+| 11 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | ★★ | Coupé plaisir ; vérifier tendeur chaîne + conso d'huile |
+| 12 | **MINI Cooper S (R56)** (Le Tampon, FB) | ? / ? | Essence | 10 500 € | 11 500 – 13 000 € ⚠️ | ★ | ⚠️ 1.6 THP N14 « death rattle » (tendeur/chaîne, pompe HP) — génération fragile |
+| 13 | **Jeep Compass Limited 1.3 GSE 150** (Saint-Leu, pro) | ~2019-20 / 46 000 | Essence | 16 999 € | ~17 500 € ⚠️ | ★ | ⚠️ **le plus cher, très au-dessus du budget** + chaîne qui s'allonge + boîte DDCT |
+| 14 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
 
 <sub>* score potentiel, sous réserve du prix/km/année à confirmer.</sub>
 
@@ -59,7 +60,15 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ⚠️ Courroie due par l'âge (~10 ans) ; diesel = gros rouleur only (FAP/EGR) ; volant bi-masse
 - Négociation : viser 8 500 – 9 000 € ou exiger courroie + filtre gazole + CT
 
-### 9. MINI One D F56 1.5 D 95 — 8 990 € ★★
+### 9. MINI Cooper D 5 portes (F55) — 10 500 € ★★
+- **Fiche** : [mini/mini.md](mini/mini.md) · Saint-Pierre, Facebook Marketplace (particulier), diesel 1.5 B37, boîte manuelle, 69 000 km
+- ✅ **Bonne génération** (F55/F56, moteur BMW B37 à chaîne) ; **« suivie par BMW, facture à l'appui »** + CT/carte grise OK ; faible km
+- ✅ Dans le budget ; la meilleure des trois MINI de la sélection
+- ⚠️ Diesel premium : FAP/EGR si usage urbain ; embrayage/volant à surveiller ; coûts pièces/MO BMW élevés à La Réunion
+- À exiger : les factures d'entretien BMW annoncées, état embrayage, filtre gazole ; essai à froid ; Histovec
+- Négociation : viser 9 800 – 10 200 € ; bon candidat si les factures confirment le suivi
+
+### 10. MINI One D F56 1.5 D 95 — 8 990 € ★★
 - **Fiche** : [mini/mini.md](mini/mini.md) · Saint-Paul, pro, 2016, 120 000 km
 - Bonne génération (F56, moteur BMW B37 à chaîne)
 - ⚠️ Diesel citadin (FAP/EGR) ; embrayage/volant (1 300-1 900 €) ; coûts premium
@@ -70,7 +79,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ✅ EA211 à courroie (150 000 km/10 ans), pas la chaîne fragile des vieux 1.2 TSI
 - **Infos manquantes** : prix, année, km, boîte (manuelle vs DSG7)
 
-### 10. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900)
+### 11. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900)
 - **Fiche** : [audi/tt.md](audi/tt.md) · Facebook Marketplace, coupé Mk2 (8J)
 - ⚠️ **Au-dessus du plafond de 10 000 €**
 - ⚠️ Identifier le moteur : EA113 (courroie, 2006-2008) ou **EA888 gen2 (chaîne + tendeur fragile + conso d'huile, 2008-2014)**
@@ -100,7 +109,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À vérifier : suivi d'huile (légère conso connue), **embrayage** (usage sportif), plaquettes, corrosion, historique (voiture « plaisir » = parfois malmenée)
 - **Infos manquantes** : année, km — les demander pour chiffrer
 
-### 11. MINI Cooper S (R56) — 10 500 € ★ (génération fragile)
+### 12. MINI Cooper S (R56) — 10 500 € ★ (génération fragile)
 - **Fiche** : [mini/mini.md](mini/mini.md) · Le Tampon, Facebook Marketplace, « vend ou échange », particulier
 - ⚠️ **R56 Cooper S = moteur 1.6 THP N14** (2007-2013) : « death rattle » (tendeur/chaîne de distribution), pompe haute pression, thermostat, consommation d'huile, turbo → l'une des motos les plus fragiles du cahier
 - ⚠️ Sans dossier de factures épais, risque de gros frais (900-1 600 € tendeur/chaîne, + aléas) ; coûts premium MINI à La Réunion
@@ -108,7 +117,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À exiger : factures tendeur/chaîne, pompe HP, embrayage, suivi d'huile ; **essai à froid impératif** (écouter le cliquetis au démarrage) ; Histovec
 - **Verdict** : fun et dans le budget, mais c'est un pari mécanique — à réserver aux passionnés avec factures béton et réserve financière. Préférer la génération F56 (comme la One D n°9) ou la Swift/BMW côté plaisir
 
-### 12. Jeep Compass Limited 1.3 GSE 150 — 16 999 € ★ (très au-dessus du budget)
+### 13. Jeep Compass Limited 1.3 GSE 150 — 16 999 € ★ (très au-dessus du budget)
 - **Fiche** : [jeep/compass.md](jeep/compass.md) · Saint-Leu, Facebook Marketplace (pro), ~2019-2020, 46 000 km, boîte auto DDCT, essence
 - ✅ Faible km, récent, essence turbo à chaîne, SUV bien équipé (finition Limited)
 - ⚠️ **16 999 € = le plus cher de la sélection, ~4 000 € au-dessus du budget**
@@ -116,7 +125,7 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À exiger : historique chaîne (voyant/rappel/mise à jour), vidange DDCT, carnet complet ; essai DDCT (à-coups à froid) ; Histovec
 - **Verdict** : beau SUV récent mais le plus cher du lot et pas exempt de risques ; mauvais rapport pour un budget ~13 000 €
 
-### 13. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
+### 14. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
 - **Fiche** : [land-rover/range-rover-evoque.md](land-rover/range-rover-evoque.md) · Saint-Denis, Facebook Marketplace, 2016, 103 000 km, boîte manuelle, « moteur nickel », « pièces neuves facture à l'appui »
 - ⚠️ **Moteur Ingenium 2.0 diesel à courroie humide** : sans facture de courroie = 900-1 500 € immédiat + **risque casse 5 000-9 000 €**
 - ⚠️ Fiabilité Evoque réputée fragile (électronique, FAP/EGR/AdBlue, joints) ; entretien 700-1 200 €/an ; **réseau/pièces JLR chers et rares à La Réunion**
