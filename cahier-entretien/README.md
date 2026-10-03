@@ -39,6 +39,7 @@ Méga cahier d'entretien **par modèle, par moteur et par année** : échéances
 |---|---|---|
 | Dacia | Duster (I, II, III) | [dacia/duster.md](dacia/duster.md) |
 | Ford | Kuga (I, II, III) | [ford/kuga.md](ford/kuga.md) |
+| Jeep | Compass (II) | [jeep/compass.md](jeep/compass.md) |
 | Land Rover | Range Rover Evoque (I, II) | [land-rover/range-rover-evoque.md](land-rover/range-rover-evoque.md) |
 | Nissan | Qashqai (I, II, III) | [nissan/qashqai.md](nissan/qashqai.md) |
 | Peugeot | 2008 (I, II) | [peugeot/2008.md](peugeot/2008.md) |
