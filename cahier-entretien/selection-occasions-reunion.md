@@ -18,7 +18,8 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 8 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
 | 9 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
 | 10 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | ★★ | Coupé plaisir ; vérifier tendeur chaîne + conso d'huile |
-| 11 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
+| 11 | **MINI Cooper S (R56)** (Le Tampon, FB) | ? / ? | Essence | 10 500 € | 11 500 – 13 000 € ⚠️ | ★ | ⚠️ 1.6 THP N14 « death rattle » (tendeur/chaîne, pompe HP) — génération fragile |
+| 12 | **Range Rover Evoque 2.0 TD4** (Saint-Denis, FB) | 2016 / 103 000 | Diesel | 14 500 € | 15 500 – 24 000 € ⚠️ | ★ | ⚠️ **courroie humide Ingenium + fiabilité fragile + hors budget** |
 
 <sub>* score potentiel, sous réserve du prix/km/année à confirmer.</sub>
 
@@ -98,7 +99,15 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - À vérifier : suivi d'huile (légère conso connue), **embrayage** (usage sportif), plaquettes, corrosion, historique (voiture « plaisir » = parfois malmenée)
 - **Infos manquantes** : année, km — les demander pour chiffrer
 
-### 11. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
+### 11. MINI Cooper S (R56) — 10 500 € ★ (génération fragile)
+- **Fiche** : [mini/mini.md](mini/mini.md) · Le Tampon, Facebook Marketplace, « vend ou échange », particulier
+- ⚠️ **R56 Cooper S = moteur 1.6 THP N14** (2007-2013) : « death rattle » (tendeur/chaîne de distribution), pompe haute pression, thermostat, consommation d'huile, turbo → l'une des motos les plus fragiles du cahier
+- ⚠️ Sans dossier de factures épais, risque de gros frais (900-1 600 € tendeur/chaîne, + aléas) ; coûts premium MINI à La Réunion
+- **Prix réel** : 11 500 – 13 000 € une fois les aléas provisionnés
+- À exiger : factures tendeur/chaîne, pompe HP, embrayage, suivi d'huile ; **essai à froid impératif** (écouter le cliquetis au démarrage) ; Histovec
+- **Verdict** : fun et dans le budget, mais c'est un pari mécanique — à réserver aux passionnés avec factures béton et réserve financière. Préférer la génération F56 (comme la One D n°9) ou la Swift/BMW côté plaisir
+
+### 12. Range Rover Evoque 2.0 TD4 diesel — 14 500 € ★ (hors budget + risqué)
 - **Fiche** : [land-rover/range-rover-evoque.md](land-rover/range-rover-evoque.md) · Saint-Denis, Facebook Marketplace, 2016, 103 000 km, boîte manuelle, « moteur nickel », « pièces neuves facture à l'appui »
 - ⚠️ **Moteur Ingenium 2.0 diesel à courroie humide** : sans facture de courroie = 900-1 500 € immédiat + **risque casse 5 000-9 000 €**
 - ⚠️ Fiabilité Evoque réputée fragile (électronique, FAP/EGR/AdBlue, joints) ; entretien 700-1 200 €/an ; **réseau/pièces JLR chers et rares à La Réunion**
