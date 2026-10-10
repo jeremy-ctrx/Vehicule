@@ -26,12 +26,14 @@
 
 | Moteur | Code | Années | Distribution | Remplacement distribution | Prix approx. |
 |---|---|---|---|---|---|
-| 2.0 TDCi 136-163 ch | DW10 (Duratorq) | 2013-2016 | **Courroie sèche + chaîne secondaire** | courroie 120-180 000 km / 10 ans | 550 – 900 € |
-| **2.0 TDCi 120-180 ch** | **DW10F (T7Mx)** | **2016-2019** | **Courroie sèche + chaîne secondaire** | **courroie ~120-180 000 km / 10 ans** | 600 – 950 € |
+| 2.0 TDCi 140-163 ch | DW10 (Duratorq) | 2013-2015 | **Courroie sèche + chaîne secondaire** | courroie 120-180 000 km / 10 ans | 550 – 900 € |
+| **2.0 TDCi 120-180 ch (Euro 6)** | **DW10F (T7Mx)** | **2015-2019** | **Courroie sèche + chaîne secondaire** | **courroie ~120-180 000 km / 10 ans** | 600 – 950 € |
 | 1.5 TDCi 120 ch | XWMA | 2016-2019 | Courroie | 180 000 km / 10 ans | 500 – 750 € |
 | 2.0 EcoBlue 120-190 ch (Kuga III) | — | 2020-… | ⚠️ **Courroie humide** | recommandé 120-150 000 km / 8 ans | 750 – 1 150 € |
 
 > ⚠️ **Vérifier le code moteur exact** : un Kuga II « 2.0 TDCi » 2013-2019 est un **DW10 à courroie sèche** (pas de courroie humide) ; seule la génération EcoBlue (Kuga III, 2020+) passe à la courroie humide. Ne pas confondre.
+
+> ⚙️ **Boîtes Kuga II** : manuelle 6 ou **Powershift 6 (MPS6 / Getrag 6DCT450, double embrayage à bain d'huile)** sur les 2.0 TDCi. Plus robuste que la Powershift *à sec* des Fiesta/Focus essence, mais **vidange de boîte recommandée (prudent : ~60 000 km)**, 250 – 400 €. Refuser une Powershift qui donne des à-coups.
 
 ## 3. Plan d'entretien par année / kilométrage
 
@@ -74,6 +76,7 @@ Base constructeur : **1 an ou 20 000 km** (recommandé 15 000 km, surtout EcoBoo
 | Turbo / durites | 2.0 TDCi forts km | perte de puissance, sifflement | 800 – 1 600 € |
 | Freins (SUV lourd) | toutes | disques avant 60-90 000 km | 300 – 550 € |
 | Infodivertissement SYNC | Kuga II | écran figé, bugs | mise à jour |
+| Boîte Powershift MPS6 (double embrayage humide) | 2.0 TDCi auto | à-coups 1re-2e, hésitations en manœuvre | vidange 250 – 400 € ; mécatronique/embrayages 1 500 – 3 000 € |
 
 ## 6. Budget d'entretien annuel moyen
 
@@ -85,7 +88,7 @@ Base constructeur : **1 an ou 20 000 km** (recommandé 15 000 km, surtout EcoBoo
 
 ## 7. Achat d'occasion (50 000 km et plus)
 
-À ≤ 10 000 €, on vise un **Kuga II (2013-2017)**, essentiellement **2.0 TDCi** — voir le [guide achat occasion](../guide-achat-occasion.md). Bon SUV familial diesel pour **gros rouleur** ; à déconseiller en usage 100 % urbain (FAP/EGR).
+À ≤ 10 000 €, on vise un **Kuga II (2013-2017)**, essentiellement **2.0 TDCi** — voir le [guide achat occasion](../guide-achat-occasion.md). Bon SUV familial diesel pour **gros rouleur** ; à déconseiller en usage 100 % urbain (FAP/EGR). La version **2.0 TDCi 120 ch** est la plus juste pour ce SUV lourd (relances molles, consommation en hausse en montée) : préférer le 150 ch à prix égal.
 
 **Factures à exiger** : vidanges régulières + filtre gazole ; **courroie de distribution (DW10 : échéance temps ~10 ans — souvent due)** ; historique FAP/EGR ; état embrayage/volant moteur.
 
@@ -97,6 +100,7 @@ Base constructeur : **1 an ou 20 000 km** (recommandé 15 000 km, surtout EcoBoo
 | 2.0 TDCi courroie non justifiée (> 10 ans) | 800 – 1 300 € |
 | Embrayage/volant fatigué | + 1 100 – 1 800 € |
 | 1.5 EcoBoost sans facture de courroie humide | provision 700 – 1 100 € |
+| Powershift sans vidange de boîte justifiée | + 250 – 400 € |
 
 - ✅ **À privilégier** : 2.0 TDCi 4x2 de gros rouleur, factures complètes, courroie faite, FAP sain.
 - ❌ **À éviter** : 2.0 TDCi de citadin (FAP/EGR bouchés) ; courroie/volant non documentés ; 1.5 EcoBoost sans preuve d'entretien de courroie humide.

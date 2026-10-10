@@ -12,8 +12,9 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 | 2 | **Peugeot 208 PureTech 100** (Saint-Pierre, pro) | 2020 / 91 241 | Essence | 8 900 € | 9 100 – 10 600 € | ★★ | ⚠️ courroie humide à vérifier |
 | 3 | **Ford Kuga 2.0 TDCi 120** (Plaine des Palmistes, pro) | 2016 / 118 000 | Diesel | 9 800 € | ~10 800 € | ★★ | SUV familial, **gros rouleur only** |
 | 4 | **MINI One D F56 1.5 D 95** (Saint-Paul, pro) | 2016 / 120 000 | Diesel | 8 990 € | ~9 500 € | ★★ | Diesel premium, coûts élevés |
-| 5 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | — | Essence fiable, infos manquantes |
-| 6 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | — | ⚠️ **hors budget** + chaîne/huile à vérifier |
+| 5 | **Ford Kuga II 2.0 TDCi 120** (Le Tampon, Marketplace, particulier) | ? / ? | Diesel | 13 000 € | ~13 300 – 14 200 € | ★ (provisoire) | ⚠️ **hors budget** + version la plus juste du Kuga |
+| 6 | **VW Polo 1.0 TSI 95** (CHZL) | ? | Essence | à chiffrer | à chiffrer | — | Essence fiable, infos manquantes |
+| 7 | **Audi TT 2.0 TFSI** (Marketplace) | ? / ? | Essence | 11 000 € (↘ 13 900) | à chiffrer | — | ⚠️ **hors budget** + chaîne/huile à vérifier |
 
 ## Détail par annonce
 
@@ -40,12 +41,21 @@ Suivi des annonces analysées avec le [cahier d'entretien](README.md) et le [gui
 - ⚠️ Diesel citadin (FAP/EGR) ; embrayage/volant (1 300-1 900 €) ; coûts premium
 - Négociation : viser 8 200 – 8 500 €
 
-### 5. VW Polo 1.0 TSI 95 (CHZL) — à chiffrer
+### 5. Ford Kuga II 2.0 TDCi 120 — 13 000 € ★ (provisoire) — hors budget
+- **Fiche** : [ford/kuga.md](ford/kuga.md) · Le Tampon, Facebook Marketplace, particulier (en ligne depuis ~12 jours → marge de négo)
+- Moteur DW10F Euro 6 (2015-2019) : courroie sèche + chaîne secondaire, **pas de courroie humide**
+- ⚠️ **30 % au-dessus du plafond de 10 000 €** ; le n° 3 (Kuga 2016 / 118 000 km, pro) est à 9 800 €
+- ⚠️ 120 ch = version la plus juste pour ce SUV lourd (relances molles dans les Hauts, consommation en hausse)
+- **Infos manquantes** : année, km, boîte (manuelle ou Powershift MPS6), factures (courroie, filtre gazole, embrayage/volant)
+- Valeur indicative selon l'âge : 2015-2016 > 110 000 km → 9 000 – 10 500 € ; 2017-2018 80-110 000 km → 10 500 – 12 000 € ; 2019 < 80 000 km, historique complet → 12 000 – 13 000 €
+- Négociation : ouvrir à ~10 500 €, objectif 11 000 – 11 500 € si 2018+ avec factures ; si 2015-2017 ou sans factures → ≤ 10 000 € ou passer
+
+### 6. VW Polo 1.0 TSI 95 (CHZL) — à chiffrer
 - **Fiche** : [volkswagen/polo.md](volkswagen/polo.md) · fiche technique piecesenstock.re
 - ✅ EA211 à courroie (150 000 km/10 ans), pas la chaîne fragile des vieux 1.2 TSI
 - **Infos manquantes** : prix, année, km, boîte (manuelle vs DSG7)
 
-### 6. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900) — hors budget
+### 7. Audi TT 2.0 TFSI — 11 000 € (↘ 13 900) — hors budget
 - **Fiche** : [audi/tt.md](audi/tt.md) · Facebook Marketplace, coupé Mk2 (8J)
 - ⚠️ **Au-dessus du plafond de 10 000 €**
 - ⚠️ Identifier le moteur : EA113 (courroie, 2006-2008) ou **EA888 gen2 (chaîne + tendeur fragile + conso d'huile, 2008-2014)**
